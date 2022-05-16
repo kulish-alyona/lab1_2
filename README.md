@@ -25,21 +25,27 @@ php
 ![6](https://user-images.githubusercontent.com/91599920/168546551-f2586f6f-d7ee-41bd-93b8-7a4f24112e64.png)
 
 query 1
+
 ![7](https://user-images.githubusercontent.com/91599920/168670422-50453e49-92b4-4acb-9c63-ae6193f717ed.jpg)
 
 query 1 result
+
 ![8](https://user-images.githubusercontent.com/91599920/168670424-d8aa1c1c-4475-46fe-a1f7-64018bc32528.jpg)
 
 query 2
+
 ![9](https://user-images.githubusercontent.com/91599920/168545366-27e343b2-3a20-43e3-a7f3-f5e9e7453c9d.png)
 
 query 2 result
+
 ![10](https://user-images.githubusercontent.com/91599920/168545486-97da58d8-4401-4e7a-affd-c8800396efee.png)
 
 query 3
+
 ![11](https://user-images.githubusercontent.com/91599920/168545552-963b76bb-3f97-43aa-aa59-8ddb90f876ad.png)
 
 query 3 result
+
 ![12](https://user-images.githubusercontent.com/91599920/168545873-83c51ee0-70a4-40f8-91d4-d8ca156d6c47.png)
 
 
